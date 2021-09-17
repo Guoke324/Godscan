@@ -37,7 +37,7 @@
 
 线程暂无法使用， 等以后进行优化
 
-![image-20210917165656350](C:\Users\query\AppData\Roaming\Typora\typora-user-images\image-20210917165656350.png)
+![1](images\1.png)
 
 
 
@@ -46,7 +46,7 @@
 反弹 shell （不一定成功，因为判断局限很多，且只适用于目标机器为 liunx，懂的~~~）
 做好监听 ----------- 自行测试即可
 
-![image-20210917165903978](C:\Users\query\AppData\Roaming\Typora\typora-user-images\image-20210917165903978.png)
+![image-20210917165903978](\image-20210917165903978.png)
 
 
 
@@ -56,8 +56,8 @@
 
 
 
-![image-20210917165937113](C:\Users\query\AppData\Roaming\Typora\typora-user-images\image-20210917165937113.png)
+![image-20210917165937113](\image-20210917165937113.png)
 
 小游戏
 
-![image-20210917165958281](C:\Users\query\AppData\Roaming\Typora\typora-user-images\image-20210917165958281.png)
+![image-20210917165958281](\image-20210917165958281.png)
